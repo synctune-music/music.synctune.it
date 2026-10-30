@@ -24,7 +24,7 @@ Keep archived work and partner projects distinct from current releases and
 company-owned projects.
 
 Customer identities, logos, private repositories and delivery details must not
-be added without authorization. The Customers branch describes services, not
+be added without authorization. The Consulting branch describes services, not
 client projects.
 
 Matteo's personal site is linked at `mbianchi.dev`. Denote, Open Playlist and
@@ -33,7 +33,7 @@ FIRE Tools is a partner project from Fire Tools Inc, not a Synctune branch.
 
 ## Brand source and rights
 
-Artwork and unmodified font files come from
+Synctune family artwork and unmodified font files come from
 [synctune-io/branding](https://github.com/synctune-io/branding),
 approved snapshot `55764ef`. Use the branch's outlined SVGs without changing
 their colors, proportions, padding or orientation.
@@ -51,6 +51,15 @@ notices. No new license or trademark clearance is implied for brand artwork.
 No scripts, CDN resources, analytics, cookies, embedded media, forms or booking
 widgets load on this site. Linked services have their own policies. Update the
 page's privacy note if this behavior changes.
+
+## Studio Duo logo
+
+The Studio Duo showcase uses `assets/projects/studio-duo.svg`, an unmodified
+copy of `assets/branding/studio-duo-icon.svg` from `mbianchidev/studio-duo` at
+commit `bf853019806303eaadd1c179dca4c1fa8bc49286`. Keep the editable SVG and
+the supplied license in `assets/projects/licenses/studio-duo-AGPL-3.0.txt`.
+The icon has no external font or script dependency. The Synctune Music symbol
+still identifies the branch itself.
 
 ## Before publishing a change
 
