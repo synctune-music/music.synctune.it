@@ -30,9 +30,10 @@ company-owned projects.
 Customer identities, logos, private repositories and delivery details must not
 be added without authorization.
 
-Matteo's personal site is linked at `mbianchi.dev`. Denote, Open Playlist and
-Moguri have independent websites. This repository does not build or deploy them.
-FIRE Tools is a partner project from Fire Tools Inc, not a Synctune branch.
+Matteo's personal site is linked at `mbianchi.dev`. Open Playlist and Open
+Playlist Engine belong to the Synctune Music portfolio and keep their own
+websites at `open-playlist.synctune.it` and `op-engine.synctune.it`. This
+repository links to those sites; it does not build or deploy them.
 
 ## Brand source and rights
 
