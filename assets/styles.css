@@ -343,6 +343,32 @@ p + p { margin-top: 1rem; }
 }
 
 .card h3 { overflow-wrap: anywhere; }
+
+.project-title {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-width: 0;
+}
+
+.project-title img {
+  flex: 0 0 64px;
+  width: 64px;
+  height: 64px;
+  object-fit: contain;
+  background: var(--ink);
+}
+
+.project-title.logo-wordmark {
+  align-items: start;
+  flex-direction: column;
+}
+
+.project-title.logo-wordmark img {
+  flex: none;
+  width: min(220px, 100%);
+}
+
 .card p:not(.meta) { font-size: 0.94rem; }
 .card > a,
 .card > .availability { margin-top: auto; }

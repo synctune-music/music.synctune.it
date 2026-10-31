@@ -67,6 +67,12 @@ still identifies the branch itself.
 
 ## Before publishing a change
 
+Describe what the music tools and artist projects do, without explaining branch
+focus or website independence. Use their verified marks, not branch-symbol or
+framework-icon placeholders. `assets/projects/provenance.json` records local
+artwork, original source revisions, checksums and notices. Keep asset copies
+inside this repository; wide artist wordmarks need enough room to be legible.
+
 Preview narrow and wide screens. Check local assets, anchors, outbound
 destinations and keyboard focus. Open the privacy disclosure with the keyboard.
 Keep `CNAME`, canonical URLs, `robots.txt` and `sitemap.xml` consistent if the
