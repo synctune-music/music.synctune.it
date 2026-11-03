@@ -1,0 +1,67 @@
+[
+  {
+    "project": "Track2Stem",
+    "asset": "assets/projects/track2stem.svg",
+    "sha256": "ca6bc17395b2badb6a45b6951272c2f65de37499dd97041517b2cf4328c3151f",
+    "license": "MIT",
+    "repo": "mbianchidev/track2stem",
+    "revision": "59a02ecfa05d4f9bf13acad43e67f5fa61e116ea",
+    "source": "frontend/public/favicon.svg",
+    "notice": "assets/projects/licenses/track2stem-LICENSE.txt"
+  },
+  {
+    "project": "AnyTrack Converter",
+    "asset": "assets/projects/anytrack-converter.svg",
+    "sha256": "421d813881105fad5934d4e429c85d48a9f2f702139165e2a95c9b88b7f566b7",
+    "license": "MIT",
+    "repo": "mbianchidev/anytrack-converter",
+    "revision": "c650a514cdaae04bcaba1cd4d579d290aef7f062",
+    "source": "frontend/public/favicon.svg",
+    "notice": "assets/projects/licenses/anytrack-converter-LICENSE.txt"
+  },
+  {
+    "project": "Open Playlist Engine",
+    "asset": "assets/projects/open-playlist-engine.svg",
+    "sha256": "36c9bf7ba0b0407db88ce757c392ba4e495446353884a4266ca9b610e8423599",
+    "license": "MIT",
+    "repo": "mbianchidev/open-playlist-engine",
+    "revision": "08bc1a0f8ba39e01fa7df1a71a66527d7b5da959",
+    "source": "docs/assets/mark.svg",
+    "notice": "assets/projects/licenses/open-playlist-engine-LICENSE.txt"
+  },
+  {
+    "project": "b143ck.music",
+    "asset": "assets/projects/b143ck.svg",
+    "sha256": "5f29944ab732a556a2ea3a707555cc1411b3ae3679f1ed1d9c4e925508074c23",
+    "license": "Unlicense",
+    "repo": "synctune-music/b143ck.music",
+    "revision": "e5482a731d61b9322a3b9bccb96ec77250f1d3a1",
+    "source": "src/assets/b143ck-mark.svg",
+    "notice": "assets/projects/licenses/b143ck-LICENSE.txt"
+  },
+  {
+    "project": "Open Playlist",
+    "asset": "assets/projects/open-playlist.svg",
+    "sha256": "0e519769a8151103abcce8017826501ac36607adcfd4830d8d936450637b87f2",
+    "license": "Brand artwork",
+    "revision": "55764ef",
+    "source": "brands/open-playlist/svg/symbol/brand-on-dark.svg"
+  },
+  {
+    "project": "Devoid of Beauty",
+    "asset": "assets/projects/devoid-of-beauty.avif",
+    "sha256": "985ac3aa6e4a3e48a39f50e0203d4e07eca87141baf0316d378333eebeb16155",
+    "license": "Artist mark",
+    "source_url": "https://www.devoidofbeauty.com/images/devoid-of-beauty-logo-light-2000.avif"
+  },
+  {
+    "project": "Studio Duo",
+    "asset": "assets/projects/studio-duo.svg",
+    "sha256": "94c810802b38a5df1514e7f981165c8003e0cee5d9ae4b2eea32adec924db2fb",
+    "license": "AGPL-3.0",
+    "repo": "mbianchidev/studio-duo",
+    "revision": "bf853019806303eaadd1c179dca4c1fa8bc49286",
+    "source": "assets/branding/studio-duo-icon.svg",
+    "notice": "assets/projects/licenses/studio-duo-AGPL-3.0.txt"
+  }
+]

@@ -1,0 +1,15 @@
+:root { --signal: #FF6488; }
+
+.cross-rhythm::before,
+.cross-rhythm::after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  inset: 20% 0;
+  border-block: 1px solid var(--signal);
+}
+
+.cross-rhythm::after { inset-block: 35%; }
+.cross-rhythm > img { background: var(--ink); }
+.cross-rhythm .art-caption { color: var(--signal); }
+.music-label { letter-spacing: 0.1em; }
