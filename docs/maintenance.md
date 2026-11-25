@@ -18,8 +18,11 @@ its own files; no website depends on another website's CSS or assets.
 
 The catalog is based on the branch's public GitHub profile and Matteo's public
 project directory. Public source links use verified current repositories,
-including projects still under `mbianchidev`. Some organization-profile links
-describe planned transfers and must not be copied without checking them.
+including projects still under `mbianchidev`. Resolve a repository with
+`gh api repos/OWNER/NAME --jq '.full_name, .visibility'` before linking it, and
+link only public repositories. When a project has a working live app or
+website, link it first and the source second, inside a
+`<div class="card-links">`.
 Update the company directory on `synctune.it` when changing branch entries.
 
 Keep private projects unlinked and label their availability. Do not invent
@@ -37,9 +40,8 @@ repository links to those sites; it does not build or deploy them.
 
 ## Brand source and rights
 
-Synctune family artwork and unmodified font files come from
-[synctune-io/branding](https://github.com/synctune-io/branding),
-approved snapshot `55764ef`. Use the branch's outlined SVGs without changing
+Synctune family artwork and unmodified font files come from the private
+`synctune-io/branding` repository, approved snapshot `55764ef`. Use the branch's outlined SVGs without changing
 their colors, proportions, padding or orientation.
 
 Ink is `#111214` and paper is `#F5F2E9`. The branch accent in `brand.css` matches
@@ -69,7 +71,8 @@ still identifies the branch itself.
 
 Describe what the music tools and artist projects do, without explaining branch
 focus or website independence. Use their verified marks, not branch-symbol or
-framework-icon placeholders. `assets/projects/provenance.json` records local
+framework-icon placeholders. Copy marks from the source repository's default
+branch, not from unmerged pull requests. `assets/projects/provenance.json` records local
 artwork, original source revisions, checksums and notices. Keep asset copies
 inside this repository; wide artist wordmarks need enough room to be legible.
 
