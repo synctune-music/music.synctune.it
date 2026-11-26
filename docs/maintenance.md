@@ -37,6 +37,7 @@ Matteo's personal site is linked at `mbianchi.dev`. Open Playlist and Open
 Playlist Engine belong to the Synctune Music portfolio and keep their own
 websites at `open-playlist.synctune.it` and `op-engine.synctune.it`. This
 repository links to those sites; it does not build or deploy them.
+b143ck.music's website is `https://b143ck.synctune.it`.
 
 ## Brand source and rights
 
